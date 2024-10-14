@@ -29,5 +29,4 @@ print('Age:', person1.age)
 print('Mind State:', person1.mind_state)
 
 message = person1.greeting()
-
 print(message)
